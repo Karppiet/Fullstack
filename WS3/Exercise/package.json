@@ -2,7 +2,7 @@
   "name": "exercise",
   "version": "1.0.0",
   "description": "",
-  "main": "notepad.js",
+  "main": "movies.js",
   "scripts": {
     "start": "node movies.js"
   },
