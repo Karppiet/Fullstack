@@ -1,4 +1,4 @@
-An app that process information from OMBD API and renders it on the browser
+An app that process information from OMDB API and renders it on the browser
 
 To run locally type npm start on the console inside WS3/Exercise folder. The app will open on port 5000, open it on the browser.
 It will look the following:
