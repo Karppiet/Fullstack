@@ -1,7 +1,7 @@
 {
   "name": "exercise",
   "version": "1.0.0",
-  "description": "",
+  "description": "An app that process information from OMDB API and renders it on the browser",
   "main": "movies.js",
   "scripts": {
     "start": "node movies.js"
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.6.0",
-    "express": "^4.18.0"
+    "axios": "^1.12.2",
+    "express": "^4.21.2"
   }
 }
