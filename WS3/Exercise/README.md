@@ -10,5 +10,5 @@ You can change the search term on movies.js: SEARCH = "star wars"; or what detai
 <tr>
       <td>${movie.Title} (${movie.Year})</td>
       <td>${movie.imdbID}</td>
-      <td><img src="${movie.Poster}" width="100" alt="poster"/></td>
-    </tr>`;
+</tr>
+
