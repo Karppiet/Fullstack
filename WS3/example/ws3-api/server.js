@@ -13,8 +13,6 @@ app.post("/api/todos", (req, res) => {
   todos.push(todo);
   res.status(201).json(todo);
 });
-app.get("/", (req, res) => {
-  res.send("✅ API is running! Try /api/hello or /api/todos");
-});
+
 app.listen(PORT, () => console.log("API on http://localhost:" + PORT));
 
